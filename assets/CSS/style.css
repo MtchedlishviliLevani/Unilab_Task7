@@ -377,6 +377,7 @@ header {
 
 .coll-card {
   width: 346px;
+  border: 1px solid rgba(234, 234, 234, 1);
 }
 .color_1,
 .color_2,
